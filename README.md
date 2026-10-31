@@ -38,6 +38,21 @@
  🔵 Medium Risk: 28.6%
 
  🟢 Low Risk: 6.6%
+
+ 
+💡 Recommendations
+
+   ➡️ Focus on Month-to-Month customers
+
+   ➡️ Target customers in their first 12 months
+
+   ➡️ Investigate Fiber Optic churn
+
+   ➡️ Review competitor offers in San Diego
+
+   ➡️ Improve support experience
+
+
     
 
 📊 Dashboard
@@ -57,21 +72,6 @@
 ### 🎯 Segments & Retention Opportunities
 
   ![Segments & Retention](images/Retention_Segments.png)
-
-
-
-💡 Recommendations
-
-   ➡️ Focus on Month-to-Month customers
-
-   ➡️ Target customers in their first 12 months
-
-   ➡️ Investigate Fiber Optic churn
-
-   ➡️ Review competitor offers in San Diego
-
-   ➡️ Improve support experience
-
 
 
 📁 Files
