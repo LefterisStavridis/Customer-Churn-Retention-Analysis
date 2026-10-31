@@ -76,10 +76,12 @@
 
 📁 Files
 
-01_Data_Profiling_Validation.sql
+[01_Data_Profiling_Validation.sql](./01_Data_Profiling_Validation.sql)
 
-02_Exploratory_Data_Analysis.sql
+[02_Exploratory_Data_Analysis.sql](./02_Exploratory_Data_Analysis.sql)
 
-03_Advanced_Analysis.sql
+[03_Advanced_Analysis.sql](./03_Advanced_Analysis.sql)
 
-Customer_Churn_Dashboard.pbix
+[Customer_Churn_Dashboard.pbix](./Customer_Churn_Dashboard.pbix)
+
+[images/](./images)
