@@ -5,50 +5,50 @@
 
 🎯 Objective
 
-    Analyze customer behavior, services, demographics, and geography to understand which customer groups are most associated with churn.
+ Analyze customer behavior, services, demographics, and geography to understand which customer groups are most associated with churn.
 
 
 🛠️ Tools
 
-    SQL Server
+ SQL Server
 
-    Power BI
+ Power BI
 
-    DAX
+ DAX
 
 
 🔎 Key Insights
 
-    📉 Overall churn: 26.5%
+ 📉 Overall churn: 26.5%
 
-    📄 Month-to-Month churn: 45.8%
+ 📄 Month-to-Month churn: 45.8%
 
-    🆕 1–12 month tenure churn: 47.4%
+ 🆕 1–12 month tenure churn: 47.4%
 
-    🌐 Fiber Optic churn: 40.7%
+ 🌐 Fiber Optic churn: 40.7%
 
-    👴 Senior Citizen churn: 41.7%
+ 👴 Senior Citizen churn: 41.7%
 
-    ⚔️ Competitor-related reasons dominated churn
-
-    📍 San Diego churn: 64.9%
+ ⚔️ Competitor-related reasons dominated churn
+ 
+ 📍 San Diego churn: 64.9%
     
 
 🚨 Highest-Risk Segment
 
-    San Diego + Month-to-Month + Fiber Optic
+ San Diego + Month-to-Month + Fiber Optic
 
-    Churn rate: 90.3%
+ Churn rate: 90.3%
 
-    82.1% reported: Competitor made better offer
+ 82.1% reported: Competitor made better offer
 
 🎯 Risk Segmentation
 
-    🔴 High Risk: 53.5%
+ 🔴 High Risk: 53.5%
 
-    🔵 Medium Risk: 28.6%
+ 🔵 Medium Risk: 28.6%
 
-    🟢 Low Risk: 6.6%
+ 🟢 Low Risk: 6.6%
     
 
 📊 Dashboard
