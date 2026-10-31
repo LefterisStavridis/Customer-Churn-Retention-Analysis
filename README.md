@@ -54,24 +54,18 @@
 📊 Dashboard
 
 
-🧭 Customer Churn Overview
-
-  Overall churn, contract type, internet type, tenure, and interactive filters.
+### 🧭 Customer Churn Overview
 
   ![Customer Churn Overview](images/Customer_Churn_Overview.png)
 
 
 
-🔍 Churn Drivers
-
-  Highlights demographic and service-related patterns associated with higher churn.
+### 🔍 Churn Drivers
 
   ![Churn Drivers](images/Churn_Drivers.png)
 
 
-🎯 Segments & Retention Opportunities
-
-  Identifies high-risk customer groups, geographic hotspots, and the San Diego retention opportunity.
+### 🎯 Segments & Retention Opportunities
 
   ![Segments & Retention](images/Retention_Segments.png)
 
