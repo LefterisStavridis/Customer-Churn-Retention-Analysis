@@ -1,84 +1,90 @@
 📊 Customer Churn & Retention Analysis
 
-SQL Server + Power BI project focused on identifying churn patterns, high-risk customer segments, and retention opportunities.
+    SQL Server + Power BI project focused on identifying churn patterns, high-risk customer segments, and retention opportunities.
+
 
 🎯 Objective
 
-Analyze customer behavior, services, demographics, and geography to understand which customer groups are most associated with churn.
+    Analyze customer behavior, services, demographics, and geography to understand which customer groups are most associated with churn.
+
 
 🛠️ Tools
 
-SQL Server
+    SQL Server
 
-Power BI
+    Power BI
 
-DAX
+    DAX
 
-GitHub
 
 🔎 Key Insights
 
-📉 Overall churn: 26.5%
+    📉 Overall churn: 26.5%
 
-📄 Month-to-Month churn: 45.8%
+    📄 Month-to-Month churn: 45.8%
 
-🆕 1–12 month tenure churn: 47.4%
+    🆕 1–12 month tenure churn: 47.4%
 
-🌐 Fiber Optic churn: 40.7%
+    🌐 Fiber Optic churn: 40.7%
 
-👴 Senior Citizen churn: 41.7%
+    👴 Senior Citizen churn: 41.7%
 
-⚔️ Competitor-related reasons dominated churn
+    ⚔️ Competitor-related reasons dominated churn
 
-📍 San Diego churn: 64.9%
+    📍 San Diego churn: 64.9%
+    
 
 🚨 Highest-Risk Segment
 
-San Diego + Month-to-Month + Fiber Optic
+    San Diego + Month-to-Month + Fiber Optic
 
-Churn rate: 90.3%
+    Churn rate: 90.3%
 
-82.1% reported: Competitor made better offer
+    82.1% reported: Competitor made better offer
 
 🎯 Risk Segmentation
 
-🔴 High Risk: 53.5%
+    🔴 High Risk: 53.5%
 
-🔵 Medium Risk: 28.6%
+    🔵 Medium Risk: 28.6%
 
-🟢 Low Risk: 6.6%
+    🟢 Low Risk: 6.6%
+    
 
 📊 Dashboard
 
+
 🧭 Customer Churn Overview
 
-Overall churn, contract type, internet type, tenure, and interactive filters.
+  Overall churn, contract type, internet type, tenure, and interactive filters.
 
 
 
 🔍 Churn Drivers
 
-Highlights demographic and service-related patterns associated with higher churn.
+  Highlights demographic and service-related patterns associated with higher churn.
 
 
 
 🎯 Segments & Retention Opportunities
 
-Identifies high-risk customer groups, geographic hotspots, and the San Diego retention opportunity.
+  Identifies high-risk customer groups, geographic hotspots, and the San Diego retention opportunity.
 
 
 
 💡 Recommendations
 
-Focus on Month-to-Month customers
+   ➡️ Focus on Month-to-Month customers
 
-Target customers in their first 12 months
+   ➡️ Target customers in their first 12 months
 
-Investigate Fiber Optic churn
+   ➡️ Investigate Fiber Optic churn
 
-Review competitor offers in San Diego
+   ➡️ Review competitor offers in San Diego
 
-Improve support experience
+   ➡️ Improve support experience
+
+
 
 📁 Files
 
