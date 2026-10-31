@@ -1,6 +1,6 @@
 📊 Customer Churn & Retention Analysis
 
-    SQL Server + Power BI project focused on identifying churn patterns, high-risk customer segments, and retention opportunities.
+ SQL Server + Power BI project focused on identifying churn patterns, high-risk customer segments, and retention opportunities.
 
 
 🎯 Objective
